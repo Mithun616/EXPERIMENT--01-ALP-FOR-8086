@@ -1,7 +1,7 @@
 # EXPERIMENT 01 ALP FOR FUNDAMENTAL AND ARITHMETIC OPERATIONS USING 8086
 Name : Mithun Kumar.G
 Roll no : 212224230160
-Date of experiment : 
+Date of experiment : 22-08-2025
 
 
 
