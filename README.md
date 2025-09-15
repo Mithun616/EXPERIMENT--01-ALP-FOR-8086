@@ -81,6 +81,7 @@ org 100h
 mov ax,2345h
 mov bx, 4444h
 add ax,bx
+sub ax,bx
 ret
 
 org 100h
